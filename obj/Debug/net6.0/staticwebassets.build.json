@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "YpdcHZGG55ePJ9wHUp0GDsVKFB9JlgbY7RRF2dnN9S8=",
+  "Source": "Blog",
+  "BasePath": "_content/Blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog\\wwwroot",
+      "Source": "Blog",
+      "ContentRoot": "e:\\Projetos\\balta\\ASPNET Blazor Developer\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
